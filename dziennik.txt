@@ -1,3 +1,5 @@
 Tutaj bede tworzyl dziennik budowy domu.
 
 1. Dzień Pierwszy kopanie fundamentów.
+
+2. Dzień Drugi wylewanie betonu.
